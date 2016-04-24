@@ -1,14 +1,14 @@
 #GRADLE
 .gradle
 /build
+/app/build
 /captures
 
 #Local configuration file (sdk path, etc)
 /local.properties
 
 #AndroidStudio
-/.idea/workspace.xml
-/.idea/libraries
+/.idea
 *.iml
 
 #OSX files
