@@ -1,8 +1,13 @@
 <resources>
     <string name="app_name">RoadMark</string>
     <string name="title_activity_map">RoadMark</string>
+
+    <!-- Map view types -->
     <string name="str_rb_normal">Normal</string>
     <string name="str_rb_satellite">Satellite</string>
     <string name="str_rb_terrain">Terrain</string>
     <string name="str_rb_hybrid">Hybrid</string>
+
+    <!-- Menu buttons -->
+    <string name="map_view_types_button">Map view</string>
 </resources>
